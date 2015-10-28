@@ -1,0 +1,8 @@
+This is a file that contains, general good to know information.
+
+These links have a lot of great python info:
+http://www.tutorialspoint.com/python/index.htm
+
+
+--- Coments in python begin with a "#", as I am sure you have already noticed.
+--- 

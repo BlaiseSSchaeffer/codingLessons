@@ -1,0 +1,12 @@
+Integer assignment: myInt = 10
+
+Float assignment: myFloat = 10.0
+
+String addignment: myStr = "Hello, world!"
+
+List assignment: myList = [1,2,3,4] OR [1.2, 3.6, 8.4] OR ["Hello", "is", "anyone", "out", "there?"] 
+
+Dictionary Assignment:  myDict =  {"key" : "value", "key" : "value", ....} 
+For example: person = {"name":"Blaise Schaeffer", "age":21, "major":"Computer Science", "year":"Senior", "residence":"Farwell"}
+
+There are lots of other data/variable types that you can use as well.
